@@ -173,8 +173,9 @@ Compile and upload the Arduino sketch to the Arduino UNO board.
 
 ---
 
-## Project Images
+## Project Image
 
+<img width="1536" height="1024" alt="Final Project" src="https://github.com/user-attachments/assets/431031c1-acab-4af9-93e2-3a051040c26c" />
 
 
 ---
